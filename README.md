@@ -11,8 +11,8 @@ Clone the repository
 
 Go inside repository folder (cd advent-code)
 
-Run command ./gradlew run --args="1A input.txt"
+Run command ./gradlew run --args="<problem> <inputFile>"
 
-Where 1A stands for the problem to execute (including 1A, 1B, 2A, 2B, 4A, 4B)
-and the text file path to use as input to the problem.
+Where <problem> stands for the problem to execute (including 1A, 1B, 2A, 2B, 4A, 4B)
+and <inputFile> the text file path to use as input to the problem.
 
