@@ -14,6 +14,12 @@ Clone the repository
 
 Go inside repository folder (cd advent-code)
 
+To run all predefined tests, run:
+
+./gradlew clean test
+
+If one wishes to add custom input, the program can be run as follows:
+
 Run command ./gradlew run --args="{problem} {inputFile}"
 
 Where {problem} stands for the problem to execute (including 1A, 1B, 2A, 2B, 4A, 4B)
